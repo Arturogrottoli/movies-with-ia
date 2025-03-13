@@ -1,0 +1,11 @@
+/* Custom styles can be added here if needed beyond Tailwind */
+.markdown a {
+    color: #4f46e5;
+    text-decoration: underline;
+  }
+  
+  .markdown strong {
+    font-weight: bold;
+  }
+  
+  
